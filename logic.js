@@ -14,7 +14,7 @@ const galleryData = `
     {
         "title": "Cast Visualizer",
         "description": "Tool extension for the Unity Editor that visualizes all casts and overlap tests in the scene view for fast debugging.",
-        "url": "https://assetstore.unity.com/packages/tools/utilities/vector-visualizer-294644"
+        "url": "https://assetstore.unity.com/packages/tools/utilities/cast-visualizer-167951"
     },
     {
         "title": "Sticky Notes",
@@ -24,7 +24,7 @@ const galleryData = `
     {
         "title": "Serialized Dictionary",
         "description": "The best and easiest way to serialize your dictionaries.",
-        "url": "https://assetstore.unity.com/packages/tools/utilities/sticky-notes-148356"
+        "url": "https://assetstore.unity.com/packages/tools/utilities/serialized-dictionary-243052"
     },
     {
         "title": "DOTween",
