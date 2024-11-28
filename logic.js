@@ -47,9 +47,9 @@ const galleryData = `
         "url": "https://assetstore.unity.com/packages/tools/utilities/scriptable-object-table-view-253745"
     },
     {
-        "title": "Bézier Path Creator",
-        "description": "An intuitive and lightweight editor for quickly creating smooth paths in the editor.",
-        "url": "https://assetstore.unity.com/packages/tools/utilities/b-zier-path-creator-136082"
+        "title": "ColoredHeaderCreator",
+        "description": "An intuitive and lightweight tool for organising your Unity hierarchy",
+        "url": "https://github.com/YoavTC/ColoredHeaderCreator"
     }
 ]`;
 
